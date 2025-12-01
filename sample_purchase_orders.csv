@@ -1,3 +1,4 @@
+
 OrderID,VendorID,Amount,DeliveryDays,QualityScore
 1,101,12000,5,8
 2,101,15000,7,7
@@ -28,4 +29,3 @@ OrderID,VendorID,Amount,DeliveryDays,QualityScore
 27,114,20000,6,7
 28,114,18000,5,8
 29,115,14000,9,5
-30,115,13000,8,6

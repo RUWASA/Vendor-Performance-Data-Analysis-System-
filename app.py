@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 import seaborn as sns
@@ -60,3 +61,4 @@ st.header("5️⃣ Vendor Risk Summary")
 
 risk_count = pred["delay_risk"].value_counts()
 st.bar_chart(risk_count)
+

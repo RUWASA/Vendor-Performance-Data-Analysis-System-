@@ -1,3 +1,4 @@
+
 qc_id,po_id,vendor_id,defects_found,quality_score
 QC001,PO101,V001,2,98
 QC002,PO102,V002,5,92

@@ -1,3 +1,4 @@
+
 VendorID,AvgDeliveryDays,AvgQualityScore,TotalSpend,delay_probability,delay_risk
 101,5,8.0,25000,0.13328895041426292,LOW
 102,6,7.5,20000,0.24638915146575308,LOW
