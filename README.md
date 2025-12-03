@@ -36,7 +36,7 @@ It helps businesses:
 ## 🔹 Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/RUWASA/Vendor-Performance-Data-Analysis-System-
+[git clone https://github.com/RUWASA/Vendor-Performance-Data-Analysis-System-](url)
 
 2.Navigate to the project folder:
 cd vendor_performance_system
@@ -46,15 +46,6 @@ pip install -r requirements.txt
 
 4.Run the Streamlit app:
 streamlit run app.py
-
-🔹 Usage
-The dashboard opens in your browser at http://localhost:8501.
-Navigate through different sections: Vendor Overview, Purchase Orders, Quality Analysis, Delay Predictions, and Vendor Risk Summary.
-Upload or modify CSV files to update the dashboard dynamically.
-
-🔹 Live Demo
-Check out the live interactive dashboard here:
-https://iutkcpynl3vkbudxdbagrr.streamlit.app/
 
 🔹 Repository Structure
 ├── app.py                 # Main Streamlit app
@@ -67,3 +58,14 @@ https://iutkcpynl3vkbudxdbagrr.streamlit.app/
 ├── sample_training_data.csv
 ├── vendors.csv            # Vendor master data
 └── README.md              # Project documentation
+
+
+🔹 Usage
+The dashboard opens in your browser at http://localhost:8501.
+Navigate through different sections: Vendor Overview, Purchase Orders, Quality Analysis, Delay Predictions, and Vendor Risk Summary.
+Upload or modify CSV files to update the dashboard dynamically.
+
+🔹 Live Demo
+Check out the live interactive dashboard here:
+[https://iutkcpynl3vkbudxdbagrr.streamlit.app/](url)
+
